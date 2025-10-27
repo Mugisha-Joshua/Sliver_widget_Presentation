@@ -1,6 +1,5 @@
 # README.md
 
-```markdown
 # Flutter SliverGrid Demo
 
 A demonstration of Flutter's SliverGrid widget showcasing complex, performant scrolling layouts with mixed content types.
