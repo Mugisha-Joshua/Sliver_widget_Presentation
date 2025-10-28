@@ -42,8 +42,8 @@ A demonstration of Flutter's SliverGrid widget showcasing complex, performant sc
 
 ## Demo UI Preview
 
-![SliverGrid Demo](https://via.placeholder.com/300x600/4A90E2/FFFFFF?text=SliverGrid+Demo+UI)
-*Note: Replace with actual screenshot after running the app*
+![SliverGrid Demo]("Final UI.png")
+*Final UI*
 
 ## Features Demonstrated
 
