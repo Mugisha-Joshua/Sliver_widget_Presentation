@@ -41,8 +41,7 @@ A demonstration of Flutter's SliverGrid widget showcasing complex, performant sc
    - Provides coordinated scrolling physics across all sliver children
 
 ## Demo UI Preview
-
-![SliverGrid Demo]("Final UI.png")
+![SliverGrid Demo](Final%20UI.png)
 *Final UI*
 
 ## Features Demonstrated
