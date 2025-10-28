@@ -9,12 +9,12 @@ A demonstration of Flutter's SliverGrid widget showcasing complex, performant sc
 
 1. **Clone and setup**:
    ```bash
-   flutter create slivergrid_demo
-   cd slivergrid_demo
+   git clone https://github.com/Mugisha-Joshua/Sliver_widget_Presentation.git
    ```
 
-2. **Replace contents**:
-   - Copy the provided code into `lib/main.dart`
+2. **Install necessary dependecies and SDKs**:
+   - node
+   - Flutter SDK and other necessary dependencies.
    - Update `pubspec.yaml` if needed
 
 3. **Run the app**:
@@ -22,6 +22,11 @@ A demonstration of Flutter's SliverGrid widget showcasing complex, performant sc
    flutter pub get
    flutter run
    ```
+4. **Error Handling**
+   Incase of an error, run:
+    ```bash
+    flutter doctor
+    ```
 
 ## Key SliverGrid Attributes
 
