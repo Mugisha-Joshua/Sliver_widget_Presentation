@@ -22,7 +22,7 @@ A demonstration of Flutter's SliverGrid widget showcasing complex, performant sc
    flutter pub get
    flutter run
    ```
-4. **Error Handling**
+4. **Error Handling**:
    Incase of an error, run:
     ```bash
     flutter doctor
