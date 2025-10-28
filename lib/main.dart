@@ -29,18 +29,12 @@ class SliverGridDemo extends StatelessWidget {
       body: CustomScrollView(
         // CustomScrollView is REQUIRED for slivers - it coordinates multiple scrollable areas
         slivers: <Widget>[
-          // 1. APP BAR SLIVER - Collapsible app bar
+          // 1. APP BAR SLIVER - Simple app bar without expanded image
           SliverAppBar(
             title: const Text('SliverGrid Demo'),
             floating: true, // App bar appears when scrolling up
             snap: true, // Smooth animation when appearing
-            expandedHeight: 200.0, // Height when fully expanded
-            flexibleSpace: FlexibleSpaceBar(
-              background: Image.network(
-                'https://picsum.photos/1200/800',
-                fit: BoxFit.cover,
-              ),
-            ),
+            backgroundColor: Colors.blue, // Solid color background
           ),
 
           // 2. HEADER SECTION - Simple text header
